@@ -1,4 +1,4 @@
-# final-project-uas
+# uas-backend
 UAS Backend Programming : Final Project RESTful API Covid with Express JS
 
 **Alwan Dwi Putra - 0110219101**
