@@ -1,5 +1,12 @@
-# Boilerplate UAS
+# final-project-uas
+UAS Backend Programming : Final Project RESTful API Covid with Express JS
 
-Branch ini merupakan Boilerplate (Kerangka Dasar) untuk mengejakan Final Project UAS.
+**Alwan Dwi Putra - 0110219101**
 
-Boilerplate ini menggunakan Express.js.
+**Deskripsi**
+
+- Membangun RESTFul API untuk Data Covid.
+- Final Project menjadi portfolio backend untuk Stack Express.js.
+- Final Project dilakukan secara individu, bukan kelompok atau team.
+- Final Project tidak perlu dilakukan presentasi.
+
